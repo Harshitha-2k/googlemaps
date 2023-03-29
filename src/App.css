@@ -1,0 +1,11 @@
+.App{
+  text-align: center;
+}
+.btn{
+  position: sticky;
+    left: 0px;
+    top: 0px;
+    bottom: 0px;
+    z-index: 1;
+    width: 100px;
+}
